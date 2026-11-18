@@ -4,5 +4,5 @@ import { defineConfig } from 'vite'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/Dashboard/', 
+  base: 'https://luis86129.github.io/Dashboard/', 
 })
